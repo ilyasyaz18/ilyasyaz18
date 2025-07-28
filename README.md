@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/418f03f0-e212-4954-bca4-1e56d91e46fc" />## 👋hi there ! 
+## 👋 Hi there !
 
 **ilyasyaz18** - Bienvenue sur mon profile GitHub !
 
